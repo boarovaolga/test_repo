@@ -1,0 +1,35 @@
+body {
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 2em;  
+}
+
+h3 {
+    font-size: 1.17em;  
+}
+
+h2 {
+    font-size: 0.83em;  
+}
+ol {
+    padding-left: 30px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+b p {
+    font-weight: bold;
+}
+
+b p i {
+    font-weight: bold;
+    font-style: italic;
+}
+
+p i {
+    font-style: italic;
+}
